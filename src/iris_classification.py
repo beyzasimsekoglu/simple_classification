@@ -34,3 +34,7 @@ print(f"Accuracy: {accuracy:.2f}")
 # 8. (Optional) Show some predictions
 print("First 5 predictions:", y_pred[:5])
 print("First 5 true labels:", y_test[:5])
+
+
+
+
